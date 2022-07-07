@@ -1,0 +1,60 @@
+.text-center{
+    text-align: center;
+}
+
+body{
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+/* .bg-red{
+    background-color: red;
+} */
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+button{
+    padding:1.5vw 2vw;
+    margin:0 0.2vw;
+    border:0.3vw solid black;
+    border-radius: 2.2vw;
+    cursor:pointer;
+    font-size:1.8vw;
+    color:rgb(215, 47, 24);
+    background-color: rgb(221, 232, 200);
+    box-shadow:0.1vw 0.1vw blue;
+    font-weight: bolder;
+    text-shadow:0.1vw 0.1vw yellow;
+   
+}
+
+.fun{
+
+  padding:1.5vw 1.5vw;
+
+}
+
+.row{
+    margin:0.5vw 0;
+}
+
+.row input{
+    margin:0.6vw;
+    padding:1.2vw 1vw;
+    border: 0.5vw solid black;
+    border-radius:1vw;
+    font-size:23px;
+    background-color: rgb(7, 242, 242);
+    color:rebeccapurple;
+    font-size:xx-large;
+    text-shadow: 0.1vw 0.1vw red;
+}
